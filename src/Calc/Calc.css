@@ -1,0 +1,11 @@
+.calculator {
+  color: #09280a;
+}
+
+.calculator__title {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none
+}
